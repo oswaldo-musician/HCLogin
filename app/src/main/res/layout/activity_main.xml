@@ -56,10 +56,10 @@
     <Button
         android:layout_width="110dp"
         android:layout_height="wrap_content"
-        android:id="@+id/btsalir"
-        android:hint="Salir"
+        android:id="@+id/btregistro"
+        android:hint="Registrar"
         android:layout_gravity="center"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="5dp"
         android:textSize="17dp"
         />
 
@@ -71,8 +71,16 @@
         android:gravity="center"
         android:layout_marginTop="7dp"
         android:textColor="@color/colorNav"
+        />
 
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/salir"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:layout_marginTop="7dp"
+        android:textColor="@color/colorNav"
         />
 
 </LinearLayout>
