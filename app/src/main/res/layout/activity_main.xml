@@ -68,7 +68,7 @@
         android:layout_height="wrap_content"
         android:text="@string/olvidopass"
         android:textStyle="italic"
-        
+
         android:gravity="center"
         android:layout_marginTop="7dp"
         android:textColor="@color/colorNav"
